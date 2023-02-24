@@ -1,0 +1,10 @@
+baseURL = 'https://mezentsev.dev'
+title = '// TODO'
+languageCode = 'en-us'
+theme = 'hello-friend-ng'
+
+[params]
+  [params.logo]
+    logoMark = '>'
+    logoText = '$ cd ~'
+    logoHomeLink = '/'
